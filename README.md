@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-I am currently a student studying CS @UMICH. <br>I am interested in web development and looking for professional experiences to leverage my knowledge!
+<br>🔭 About me: I am currently a student studying CS @UMICH. <br>I am interested in web development and looking for professional experiences to leverage my knowledge!
 <br>🌱 I’m currently learning machine learning and web development
 <br>📫 How to reach me: tylee2715@gmail.com
 
