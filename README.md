@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 # 💫 About Me:
 I am currently a student studying CS @UMICH. <br>I am interested in web development and looking for professional experiences to leverage my knowledge!
+📫 How to reach me: tonyklee@umich.edu
 
 
 ## 🌐 Socials:
