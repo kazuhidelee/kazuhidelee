@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kazuhidelee &theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🧑‍🎨 My Hoby:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/tgalarie/?hl=ko) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/tgalarie/?hl=ko) 
 
 ---
 
