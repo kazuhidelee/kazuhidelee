@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 <br>💬 I am interested in web development and looking for professional experiences to leverage my knowledge!
 <br>🌱 I’m currently learning machine learning and web development
 <br>📫 How to reach me: tylee2715@gmail.com
+<br>🧑🏻‍💻 My personal website: [personal website](https://kazuhidelee.github.io/Personal_Website/)
 
 
 ## 🌐 Socials:
