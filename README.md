@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <br>💬 I am interested in software development and looking for entry level roles to leverage my knowledge!
 <br>🌱 I’m currently learning operating systems and database management 
 <br>📫 How to reach me: tylee2715@gmail.com
-<br>🧑🏻‍💻 My personal website: [personal website](https://kazuhidelee.github.io/Personal_Website/)
+<br>🧑🏻‍💻 My personal website: [personal website](https://tonyos.vercel.app/)
 
 
 ## 🌐 Socials:
