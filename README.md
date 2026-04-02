@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-<br>🔭 About me: I am a recent CS grad from UMICH. 
+<br>🔭 About me: I am an incoming MSCS student at New York University - Courant Insitute. 
 <br>💬 I am interested in software development and looking for entry level roles to leverage my knowledge!
 <br>🌱 I’m currently learning operating systems and database management 
 <br>📫 How to reach me: tylee2715@gmail.com
