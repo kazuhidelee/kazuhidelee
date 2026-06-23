@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 # 💫 About Me:
 <br>🔭 About me: I am an incoming MSCS student at New York University - Courant Insitute. 
 <br>💬 I am interested in software security systems and looking for entry level roles / internships to leverage my knowledge!
-<br>🌱 I’m currently learning embedded linux and Embedded C
+<br>🔭 I’m currently learning embedded linux and Embedded C
+<br>🌱 I’m currently working on an interactive encyclopedia for kids, check out: [everstory](https://app.everstory.info/)
 <br>📫 How to reach me: tylee2715@gmail.com
 <br>🧑🏻‍💻 My personal website: [personal website](https://tonyos.vercel.app/)
 
